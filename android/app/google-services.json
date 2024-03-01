@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248315500994",
+    "project_id": "tobahack-de5bb",
+    "storage_bucket": "tobahack-de5bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248315500994:android:ef7c58339d4719895ade5b",
+        "android_client_info": {
+          "package_name": "com.example.tobas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK3NtH1MqAmWKMXc79U-sVjM-0x3JeCjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
